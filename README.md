@@ -11,3 +11,6 @@ https://towardsdatascience.com/why-deep-learning-may-be-best-for-breast-7725d144
 
 # Classifying breast cancer tumour type using Convolutional Neural Network (CNN — Deep Learning)
 https://towardsdatascience.com/how-to-fight-breast-cancer-with-deep-learning-ab28e42e4250
+
+#bloggs for neural networks
+https://medium.com/towards-data-science/search?q=neural%20network
